@@ -1,1 +1,3 @@
-title;author_ID;stock
+ID;title;author_ID;stock
+10;Libro1;20;2
+11;Libro2;20;2
